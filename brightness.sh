@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define the name of your second monitor
+# Define the name of your monitor
 monitor="HDMI-2"
 
 # Check if the number of arguments is correct
